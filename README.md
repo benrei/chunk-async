@@ -1,2 +1,2 @@
 # chunk-async
-Helps to chunk data and do async work to large datasets
+Helps to chunk data and resolve async work to large datasets
