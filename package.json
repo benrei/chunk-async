@@ -1,0 +1,30 @@
+{
+  "name": "chunk-async",
+  "version": "0.0.1",
+  "description": "Helps to chunk data and resolve async work on large datasets",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benrei/chunk-async.git"
+  },
+  "keywords": [
+    "chunk",
+    "resolve",
+    "promise",
+    "async"
+  ],
+  "author": "Benjamin Reiersølmoen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benrei/chunk-async/issues"
+  },
+  "homepage": "https://github.com/benrei/chunk-async#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.19.1",
+    "wkt": "^0.1.1"
+  }
+}
