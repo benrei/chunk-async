@@ -24,7 +24,7 @@
   "homepage": "https://github.com/benrei/chunk-async#readme",
   "dependencies": {},
   "devDependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "wkt": "^0.1.1"
   }
 }
